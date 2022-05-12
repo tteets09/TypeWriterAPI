@@ -264,7 +264,7 @@ class Write extends Operation{
  */
 class Backspace extends Operation{
     /**
-     * The speed at which the delete operation will run
+     * The amount of characters to be deleted
      */
     private int amount;
 

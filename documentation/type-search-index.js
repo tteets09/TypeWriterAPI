@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Backspace"},{"p":"<Unnamed>","l":"DeleteAll"},{"p":"<Unnamed>","l":"NextLine"},{"p":"<Unnamed>","l":"Operation"},{"p":"<Unnamed>","l":"Pause"},{"p":"<Unnamed>","l":"TypeWriter"},{"p":"<Unnamed>","l":"Write"}];updateSearchResults();
